@@ -2,7 +2,9 @@
 
 # Third generation sequencing of _Halobacterium salinarum_ NRC-1 model archeon organism
 
-This repo contains the detailed computational methods used in our work.
+This repo contains the detailed computational methods used in our work. This research project was fully developed at [Microbial System Biology Lab](http://labisismi.fmrp.usp.br/index.php/en/)) of [Ribeirão Preto Medical School](https://www.fmrp.usp.br/en/) at [University of São Paulo](https://www5.usp.br/#english), Brazil.
+
+
 The pipeline was divided into the followind steps:
 
 1. Basecalling
@@ -14,8 +16,7 @@ The command used in each step are available in the file `pipeline.sh`
 
 ---
 
-This research project was fully developed at [Microbial System Biology Lab](http://labisismi.fmrp.usp.br/index.php/en/)) of [Ribeirão Preto Medical School](https://www.fmrp.usp.br/en/) at [University of São Paulo](https://www5.usp.br/#english), Brazil.
-
+Feel free to contact us!
 
 > _Vinícius H F Santos_
 >
