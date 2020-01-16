@@ -11,3 +11,14 @@ The pipeline was divided into the followind steps:
 1. Assembling
 
 The command used in each step are available in the file `pipeline.sh`
+
+---
+
+This research project was fully developed at [Microbial System Biology Lab](http://labisismi.fmrp.usp.br/index.php/en/)) of [Ribeirão Preto Medical School](https://www.fmrp.usp.br/en/) at [University of São Paulo](https://www5.usp.br/#english), Brazil.
+
+
+> _Vinícius H F Santos_
+>
+> _vinicius6.santos@usp.br_
+>
+> [_vhfsantos.netlify.com_](vhfsantos.netlify.com)
