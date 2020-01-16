@@ -14,7 +14,6 @@ The pipeline was divided into the followind steps:
 
 The command used in each step are available in the file `pipeline.sh`
 
----
 
 Feel free to contact us!
 
