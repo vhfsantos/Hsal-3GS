@@ -1,4 +1,4 @@
-<p align="center"><img src="ugpc.png" alt="UGPC" width="800"></p>
+<p align="center"><img src="ugpc.png" alt="UGPC" width="1000"></p>
 
 # Third generation sequencing of _Halobacterium salinarum_ NRC-1 model archeon organism
 
